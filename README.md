@@ -7,8 +7,9 @@
 - Network Security
 - Penetration Testing
 - Security Analysis
+- Threat Intelligence
 - Vulnerability Assessment
-
+  
 ### 🛡️ Certifications
 - [Certification 1] - [Issuing Organization] ([Date])
 - [Certification 2] - [Issuing Organization] ([Date])
