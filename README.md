@@ -11,8 +11,8 @@
 - Vulnerability Assessment
   
 ### 🛡️ Certifications
-- [Certification 1] - [Issuing Organization] ([Date])
-- [Certification 2] - [Issuing Organization] ([Date])
+- ![Google Cybersecurity Certificate](https://img.shields.io/badge/-Google%20Cybersecurity%20Certificate-4285F4?style=flat&logo=google&logoColor=white) - Coursera (22/02/2025)
+- ![CompTIA Security+](https://img.shields.io/badge/-CompTIA%20Security%2B-FF0000?style=flat&logo=comptia&logoColor=white) - CompTIA (In progress)
 - [Future Certification] - (In Progress, Expected [Date])
 
 ### 🔍 Current Projects
@@ -40,9 +40,8 @@
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-557C94?style=flat&logo=kali-linux&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
-![CompTIA Security+](https://img.shields.io/badge/-CompTIA%20Security%2B-FF0000?style=flat&logo=comptia&logoColor=white)
 ![CompTIA Security+](https://img.shields.io/badge/-CompTIA%20Security%2B-FF0000?style=for-the-badge&logo=comptia&logoColor=white)
-
+![Google Cybersecurity Professional Certificate](https://img.shields.io/badge/-Google%20Cybersecurity%20Professional-4285F4?style=for-the-badge&logo=google&logoColor=white&labelColor=000000)
 <!--
 **Rrs-Hum/Rrs-Hum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
