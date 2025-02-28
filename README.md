@@ -30,8 +30,8 @@
 - [Course or certification you're working on]
 
 ### 📫 How to Reach Me
-- LinkedIn: [![LinkedIn Profile](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rareslascau/)
-- Email: 
+-  [![LinkedIn Profile](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rareslascau/)
+- Email: [![Gmail Contact](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rarespaul97@gmail.com)
 
 ---
 
