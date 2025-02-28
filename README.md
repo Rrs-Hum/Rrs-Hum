@@ -1,7 +1,7 @@
-# [Your Name]
+# Rares P. Lascau
 ## Cybersecurity Professional in Training
 
-👋 Hi, I'm [Your Name], transitioning into cybersecurity through continuous learning and hands-on projects.
+👋 Hi, I'm Rares, transitioning into cybersecurity through continuous learning and hands-on projects.
 
 ### 🔐 Cybersecurity Focus Areas
 - Network Security
