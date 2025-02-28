@@ -20,9 +20,9 @@
 - **[Project Name]**: [Brief description of what you built/analyzed and the technologies used]
 
 ### 🧰 Skills & Tools
-- **Languages**: Python, Bash
+- **Languages**: Python, Bash, SQL
 - **Security Tools**: Wireshark, Metasploit, Nmap, Burp Suite
-- **Platforms**: Linux, Windows
+- **Platforms**: Linux, Windows, MacOS
 - **Other**: Docker, Git, Network Analysis
 
 ### 📚 Currently Learning
@@ -30,8 +30,8 @@
 - [Course or certification you're working on]
 
 ### 📫 How to Reach Me
-- LinkedIn: [Your LinkedIn URL]
-- Email: [Your professional email]
+- LinkedIn: [![LinkedIn Profile](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rareslascau/)
+- Email: 
 
 ---
 
