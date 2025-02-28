@@ -37,6 +37,10 @@
 
 *"The only truly secure system is one that is powered off, cast in a block of concrete and sealed in a lead-lined room with armed guards."* - Gene Spafford
 
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-557C94?style=flat&logo=kali-linux&logoColor=white)
+![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
+![CompTIA Security+](https://img.shields.io/badge/-CompTIA%20Security%2B-FF0000?style=flat&logo=comptia&logoColor=white)
 <!--
 **Rrs-Hum/Rrs-Hum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
