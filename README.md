@@ -12,7 +12,7 @@
   
 ### 🛡️ Certifications
 - ![Google Cybersecurity Certificate](https://img.shields.io/badge/-Google%20Cybersecurity%20Certificate-4285F4?style=flat&logo=google&logoColor=white) - Coursera (22/02/2025)
-- ![CompTIA Security+](https://img.shields.io/badge/-CompTIA%20Security%2B-FF0000?style=flat&logo=comptia&logoColor=white) - CompTIA (In progress)
+- ![CompTIA Security+](https://img.shields.io/badge/-CompTIA%20Security%2B-FF0000?style=flat&logo=comptia&logoColor=white) - CompTIA 
 - [Future Certification] - (In Progress, Expected [Date])
 
 ### 🔍 Current Projects
