@@ -27,8 +27,11 @@ I actively use the following platforms to sharpen my offensive security knowledg
 [![TryHackMe Profile](https://img.shields.io/badge/TryHackMe-blue?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/RrsHum)
 [![Hack The Box Profile](https://img.shields.io/badge/Hack%20The%20Box-green?style=for-the-badge&logo=hackthebox&logoColor=white)](https://app.hackthebox.com/profile/RrsHum)
 
-[![Web Requests](https://academy.hackthebox.com/achievement/badge/34fea7e5-6a42-11f0-bcfd-bea50ffe6cb4)](https://academy.hackthebox.com/achievement/badge/34fea7e5-6a42-11f0-bcfd-bea50ffe6cb4)
-[![Using Web Proxies](https://academy.hackthebox.com/achievement/badge/d7a47561-7381-11f0-9254-bea50ffe6cb4)](https://academy.hackthebox.com/achievement/badge/d7a47561-7381-11f0-9254-bea50ffe6cb4)
+## HTB Academy Badges
+
+[![Web Requests](assets/web_requests_badge.png)](https://academy.hackthebox.com/achievement/badge/34fea7e5-6a42-11f0-bcfd-bea50ffe6cb4)
+[![Using Web Proxies](assets/using_web_proxies_badge.png)](https://academy.hackthebox.com/achievement/badge/d7a47561-7381-11f0-9254-bea50ffe6cb4)
+
 
 
 ### 🧰 Skills & Tools
