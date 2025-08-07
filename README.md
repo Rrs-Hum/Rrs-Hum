@@ -20,6 +20,13 @@
 - **[Project Name]**: [Brief description of what you built/analyzed and the technologies used]
 - **[Project Name]**: [Brief description of what you built/analyzed and the technologies used]
 
+### Hands-On Practice & Skill Development
+
+I actively use the following platforms to sharpen my offensive security knowledge, which is crucial for understanding threats from a defender's perspective.
+
+[![TryHackMe Profile](https://img.shields.io/badge/TryHackMe-blue?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/RrsHum)
+[![Hack The Box Profile](https://img.shields.io/badge/Hack%20The%20Box-green?style=for-the-badge&logo=hackthebox&logoColor=white)](https://app.hackthebox.com/profile/RrsHum)
+
 ### 🧰 Skills & Tools
 - **Languages**: Python, Bash, SQL
 - **Security Tools**: Wireshark, Metasploit, Nmap, Burp Suite, OWASP Zap
@@ -27,8 +34,7 @@
 - **Other**: Docker, Github, Network Analysis
 
 ### 📚 Currently Learning
-- [Specific technology or concept]
-- [Course or certification you're working on]
+- 
 
 ### 📫 How to Reach Me
 -  [![LinkedIn Profile](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rareslascau/)
