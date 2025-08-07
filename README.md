@@ -26,7 +26,7 @@ I actively use the following platforms to sharpen my offensive security knowledg
 
 [![TryHackMe Profile](https://img.shields.io/badge/TryHackMe-blue?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/RrsHum)
 [![Hack The Box Profile](https://img.shields.io/badge/Hack%20The%20Box-green?style=for-the-badge&logo=hackthebox&logoColor=white)](https://app.hackthebox.com/profile/RrsHum)
-
+<a href="https://overthewire.org/wargames/"><img src="https://www.google.com/search?q=https://img.shields.io/badge/OverTheWire-Wargames-black%3Fstyle%3Dfor-the-badge%26logo%3Dgnome-terminal%26logoColor%3Dwhite" alt="OverTheWire Wargames"/></a>
 ## HTB Academy Badges
 
 [![Web Requests](assets/web_requests_badge.png)](https://academy.hackthebox.com/achievement/badge/34fea7e5-6a42-11f0-bcfd-bea50ffe6cb4)
