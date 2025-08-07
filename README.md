@@ -26,8 +26,7 @@ I actively use the following platforms to sharpen my offensive security knowledg
 
 [![TryHackMe Profile](https://img.shields.io/badge/TryHackMe-blue?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/RrsHum)
 [![Hack The Box Profile](https://img.shields.io/badge/Hack%20The%20Box-green?style=for-the-badge&logo=hackthebox&logoColor=white)](https://app.hackthebox.com/profile/RrsHum)
-<a href="https://www.google.com/search?q=https://tryhackme.com/p/RrsHum"><img src="https://www.google.com/search?q=https://img.shields.io/badge/TryHackMe-blue%3Fstyle%3Dfor-the-badge%26logo%3Dtryhackme%26logoColor%3Dwhite" alt="TryHackMe Profile"/></a>
-<a href="https://www.google.com/search?q=https://app.hackthebox.com/profile/RrsHum"><img src="https://www.google.com/search?q=https://img.shields.io/badge/Hack%2520The%2520Box-green%3Fstyle%3Dfor-the-badge%26logo%3Dhackthebox%26logoColor%3Dwhite" alt="Hack The Box Profile"/></a>
+
 <a href="https://academy.hackthebox.com/achievement/badge/34fea7e5-6a42-11f0-bcfd-bea50ffe6cb4"><img src="https://www.google.com/search?q=https://img.shields.io/badge/HTB%2520Academy-Module%2520Complete-orange%3Fstyle%3Dflat-square%26logo%3Dhackthebox%26logoColor%3Dwhite" alt="HTB Academy Badge"/></a>
 <a href="https://academy.hackthebox.com/achievement/badge/d7a47561-7381-11f0-9254-bea50ffe6cb4"><img src="https://www.google.com/search?q=https://img.shields.io/badge/HTB%2520Academy-Module%2520Complete-orange%3Fstyle%3Dflat-square%26logo%3Dhackthebox%26logoColor%3Dwhite" alt="HTB Academy Badge"/></a>
 
