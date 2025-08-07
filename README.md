@@ -4,26 +4,27 @@
 👋 Hello! I'm Rares, a dedicated and analytical professional building a career in cybersecurity. With a strong foundation in security principles and a passion for defending digital environments, I am actively developing my skills in security monitoring, incident detection, and response. My goal is to apply my expertise to protect information systems as part of a proactive Security Operations Center (SOC).
 
 ### 🔐 Cybersecurity Focus Areas
+- Security Operations Center (SOC)
+- Risk Management
 - Network Security
 - Penetration Testing
-- Security Analysis
 - Threat Intelligence
 - Vulnerability Assessment
   
 ### 🛡️ Certifications
 - ![Google Cybersecurity Certificate](https://img.shields.io/badge/-Google%20Cybersecurity%20Certificate-4285F4?style=flat&logo=google&logoColor=white) - Coursera (22/02/2025)
-- ![CompTIA Security+](https://img.shields.io/badge/-CompTIA%20Security%2B-FF0000?style=flat&logo=comptia&logoColor=white) - CompTIA 
-- [Future Certification] - (In Progress, Expected [Date])
+- ![CompTIA Security+](https://img.shields.io/badge/-CompTIA%20Security%2B-FF0000?style=flat&logo=comptia&logoColor=white) - CompTIA (12/07/2025)
 
+  
 ### 🔍 Current Projects
 - **[Project Name]**: [Brief description of what you built/analyzed and the technologies used]
 - **[Project Name]**: [Brief description of what you built/analyzed and the technologies used]
 
 ### 🧰 Skills & Tools
 - **Languages**: Python, Bash, SQL
-- **Security Tools**: Wireshark, Metasploit, Nmap, Burp Suite
+- **Security Tools**: Wireshark, Metasploit, Nmap, Burp Suite, OWASP Zap
 - **Platforms**: Linux, Windows, MacOS
-- **Other**: Docker, Git, Network Analysis
+- **Other**: Docker, Github, Network Analysis
 
 ### 📚 Currently Learning
 - [Specific technology or concept]
@@ -42,17 +43,6 @@
 ![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
 ![CompTIA Security+](https://img.shields.io/badge/-CompTIA%20Security%2B-FF0000?style=for-the-badge&logo=comptia&logoColor=white)
 ![Google Cybersecurity Professional Certificate](https://img.shields.io/badge/-Google%20Cybersecurity%20Professional-4285F4?style=for-the-badge&logo=google&logoColor=white&labelColor=000000)
-<!--
-**Rrs-Hum/Rrs-Hum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
