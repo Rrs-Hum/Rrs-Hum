@@ -16,6 +16,15 @@
 [![Networking](https://img.shields.io/badge/Networking–orange.svg?style=for-the-badge)]
 [![Scripting](https://img.shields.io/badge/Python%20&amp;%20Bash–yellow.svg?style=for-the-badge)]
 
+##  Learning Journey
+| Platform           | Focus Area                       | Highlights                                      |
+|-------------------|---------------------------------- |-------------------------------------------------|
+| Hack The Box      | Exploitation & reverse‑engineering | Completed [X] labs, earned [notes/badges].     |
+| TryHackMe         | Infrastructure & Forensics       | Completed [Y] paths or rooms.                  |
+| OverTheWire Bandit | Beginner Linux & scripting       | Bandit levels [n–m] cleared.                    |
+| Capture The Flag (CTFs) | Wide-ranging challenges       | Participated in [Z] CTFs—solved problems in crypto, web, forensics. |
+
+
   
 ### 🛡️ Certifications
 - ![Google Cybersecurity Certificate](https://img.shields.io/badge/-Google%20Cybersecurity%20Certificate-4285F4?style=flat&logo=google&logoColor=white) - Coursera (22/02/2025)
