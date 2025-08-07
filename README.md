@@ -1,7 +1,7 @@
 # Rares P. Lascau
-## Cybersecurity Professional in Training
+## Aspiring SOC Analyst & Cybersecurity Professional
 
-👋 Hi, I'm Rares, transitioning into cybersecurity through continuous learning and hands-on projects.
+👋 Hello! I'm Rares, a dedicated and analytical professional building a career in cybersecurity. With a strong foundation in security principles and a passion for defending digital environments, I am actively developing my skills in security monitoring, incident detection, and response. My goal is to apply my expertise to protect information systems as part of a proactive Security Operations Center (SOC).
 
 ### 🔐 Cybersecurity Focus Areas
 - Network Security
