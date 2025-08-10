@@ -161,7 +161,53 @@ While my rankings are beginner-level, each CTF deepened my knowledge and introdu
 - Binary analysis & reverse engineering fundamentals  
 - Forensics & packet capture analysis  
 - OSINT & threat profiling  
+- Incident response workflows
+
+  ## 🛡 Cybersecurity Practice & Labs Portfolio
+
+I actively develop my **offensive and defensive cybersecurity skills** through hands-on labs, wargames, and CTF competitions.
+
+---
+
+### 🎯 Platforms
+[![Hack The Box](https://img.shields.io/badge/Hack%20The%20Box-111927?logo=hackthebox&logoColor=9FEF00)](https://app.hackthebox.com/profile)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?logo=tryhackme&logoColor=white)](https://tryhackme.com/p/RrsHum)
+[![OverTheWire](https://img.shields.io/badge/OverTheWire-000000?logo=linux&logoColor=white)](https://overthewire.org/wargames/)
+
+- **Hack The Box (HTB)** – Penetration testing challenges and CTF-style labs focusing on network exploitation, privilege escalation, and post-exploitation techniques.  
+- **TryHackMe (THM)** – Guided and competitive labs covering web exploitation, blue teaming, malware analysis, and incident response.  
+- **OverTheWire** – Progressive Linux and networking wargames for foundational security and exploitation skills.  
+
+---
+
+### 🏆 Capture the Flag (CTF) Participation – 2025
+While my rankings are beginner-level, each CTF deepened my knowledge and introduced new tools and attack/defense techniques.
+
+**Events:**
+- **HACK'OSINT 2025** – Specialized OSINT investigations and digital footprint mapping.  
+- **CTF@CIT! 2025** – Web exploitation and cryptography puzzles.  
+- **THCON 2025** – Mixed challenges in forensics, reverse engineering, and OSINT.  
+- **1753CTF 2025** – Binary exploitation, pwn, and scripting.  
+- **squ1rrel.CTF 2025** – Web and network analysis scenarios.  
+- **Auvergn’Hack 2025** – Incident response and log analysis tasks.  
+- **Tales from Eldoria (Hack The Box)** – Story-driven exploitation chain.  
+- **Hackfinity Battle (TryHackMe)** – Competitive timed hacking challenge.
+
+---
+
+### 🧠 Skills Strengthened
+- Enumeration & vulnerability discovery  
+- Web exploitation & SQLi basics  
+- Privilege escalation (Linux/Windows)  
+- Binary analysis & reverse engineering fundamentals  
+- Forensics & packet capture analysis  
+- OSINT & threat profiling  
 - Incident response workflows  
+
+---
+
+💡 *Even without top finishes, these platforms and events help me continuously grow my skills, stay updated on attack vectors, and improve my problem-solving approach under time pressure.*
+
 
 ---
 
