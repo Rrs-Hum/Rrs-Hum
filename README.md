@@ -70,5 +70,88 @@ I actively use the following platforms to sharpen my offensive security knowledg
 ![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-557C94?style=flat&logo=kali-linux&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
 ![CompTIA Security+](https://img.shields.io/badge/-CompTIA%20Security%2B-FF0000?style=for-the-badge&logo=comptia&logoColor=white)
+
+
+
+# 👋 Hi, I’m Rares Lascau  
+
+💻 **Entry-Level Cybersecurity Analyst** | SOC Operations | Cloud Security | OSINT | Incident Response  
+
+---
+
+## 🚀 About Me
+- 🎯 Transitioning from **5+ years in military intelligence and OSINT investigations** with the French Foreign Legion, including NATO mission support.  
+- 📜 Certified: **CompTIA Security+** | **Google Cybersecurity Professional Certificate**.  
+- 🛠️ Hands-on experience in:
+  - SOC monitoring (Splunk, ELK)
+  - Incident response & forensics
+  - Cloud security (AWS, IAM, CloudTrail, CloudWatch)
+  - Infrastructure as Code (Terraform)
+  - OSINT & threat profiling (Maltego, recon-ng)  
+- 🌍 Based in France, open to **remote cybersecurity roles within the EU**.
+
+---
+
+## 📂 Featured Projects
+
+<table>
+<tr>
+<td width="33%">
+  
+### 🔹 SIEM & Incident Response Lab  
+[![GitHub](https://img.shields.io/badge/Code-View%20Repository-blue?logo=github)](#)  
+Simulated phishing, brute force, and malware beaconing attacks in a SOC lab using **Splunk** and **Wireshark**.  
+**Skills:** SOC monitoring, SIEM queries, incident triage, packet analysis.  
+</td>
+<td width="33%">
+
+### 🔹 Cloud Security Automation with Terraform  
+[![GitHub](https://img.shields.io/badge/Code-View%20Repository-blue?logo=github)](#)  
+Automated AWS deployment with **least privilege IAM**, **network segmentation**, and **CloudTrail/CloudWatch monitoring**.  
+**Skills:** Cloud security, IaC, compliance validation.  
+</td>
+<td width="33%">
+
+### 🔹 OSINT Threat Profiling & Awareness  
+[![GitHub](https://img.shields.io/badge/Code-View%20Repository-blue?logo=github)](#)  
+Mapped a fictional target’s public digital footprint using **Maltego** and **recon-ng** to identify vulnerabilities.  
+**Skills:** OSINT, threat intelligence, risk assessment.  
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠 Tech & Tools
+
+![Splunk](https://img.shields.io/badge/-Splunk-000?&logo=Splunk)  
+![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?&logo=Wireshark&logoColor=white)  
+![Maltego](https://img.shields.io/badge/-Maltego-2E2E2E)  
+![Nmap](https://img.shields.io/badge/-Nmap-00457C?&logo=nmap)  
+![AWS](https://img.shields.io/badge/-AWS-232F3E?&logo=amazon-aws)  
+![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?&logo=Terraform)  
+![Python](https://img.shields.io/badge/-Python-3776AB?&logo=python&logoColor=white)  
+![Bash](https://img.shields.io/badge/-Bash-4EAA25?&logo=gnu-bash&logoColor=white)  
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rrs-Hum&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rrs-Hum&layout=compact&theme=radical)  
+
+---
+
+## 📫 Connect With Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/rareslascau/)  
+[![Email](https://img.shields.io/badge/Email-rarespaul97%40gmail.com-red?logo=gmail&logoColor=white)](mailto:rarespaul97@gmail.com)  
+
+---
+
+💡 *This GitHub is where I share my hands-on security projects, tools, and continuous learning toward becoming a professional SOC/Cybersecurity Analyst.*
+
+
+
+
 ![Google Cybersecurity Professional Certificate](https://img.shields.io/badge/-Google%20Cybersecurity%20Professional-4285F4?style=for-the-badge&logo=google&logoColor=white&labelColor=000000)
 
