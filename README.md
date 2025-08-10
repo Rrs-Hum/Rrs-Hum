@@ -72,5 +72,3 @@ I actively use the following platforms to sharpen my offensive security knowledg
 ![CompTIA Security+](https://img.shields.io/badge/-CompTIA%20Security%2B-FF0000?style=for-the-badge&logo=comptia&logoColor=white)
 ![Google Cybersecurity Professional Certificate](https://img.shields.io/badge/-Google%20Cybersecurity%20Professional-4285F4?style=for-the-badge&logo=google&logoColor=white&labelColor=000000)
 
-- ⚡ Fun fact: ...
--->
