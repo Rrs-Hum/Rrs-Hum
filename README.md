@@ -70,6 +70,7 @@ I actively use the following platforms to sharpen my offensive security knowledg
 ![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-557C94?style=flat&logo=kali-linux&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
 ![CompTIA Security+](https://img.shields.io/badge/-CompTIA%20Security%2B-FF0000?style=for-the-badge&logo=comptia&logoColor=white)
+![Google Cybersecurity Professional Certificate](https://img.shields.io/badge/-Google%20Cybersecurity%20Professional-4285F4?style=for-the-badge&logo=google&logoColor=white&labelColor=000000)
 
 
 
@@ -153,5 +154,5 @@ Mapped a fictional target’s public digital footprint using **Maltego** and **r
 
 
 
-![Google Cybersecurity Professional Certificate](https://img.shields.io/badge/-Google%20Cybersecurity%20Professional-4285F4?style=for-the-badge&logo=google&logoColor=white&labelColor=000000)
+
 
