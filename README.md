@@ -73,7 +73,6 @@ I actively use the following platforms to sharpen my offensive security knowledg
 ![Google Cybersecurity Professional Certificate](https://img.shields.io/badge/-Google%20Cybersecurity%20Professional-4285F4?style=for-the-badge&logo=google&logoColor=white&labelColor=000000)
 
 
-
 # 👋 Hi, I’m Rares Lascau  
 
 💻 **Entry-Level Cybersecurity Analyst** | SOC Operations | Cloud Security | OSINT | Incident Response  
@@ -123,6 +122,26 @@ Mapped a fictional target’s public digital footprint using **Maltego** and **r
 
 ---
 
+## 🏴 Practical Cybersecurity Labs
+
+[![Hack The Box](https://img.shields.io/badge/Hack%20The%20Box-111927?logo=hackthebox&logoColor=9FEF00)](https://app.hackthebox.com/profile)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?logo=tryhackme&logoColor=white)](https://tryhackme.com/p/RrsHum)
+[![OverTheWire](https://img.shields.io/badge/OverTheWire-000000?logo=linux&logoColor=white)](https://overthewire.org/wargames/)
+
+I actively sharpen my **offensive and defensive cybersecurity skills** through well-known practice platforms:
+
+- **Hack The Box (HTB)** – Penetration testing challenges and CTF-style labs, focusing on network exploitation, privilege escalation, and post-exploitation techniques.  
+- **TryHackMe (THM)** – Guided and competitive labs covering web exploitation, blue teaming, malware analysis, and incident response.  
+- **OverTheWire** – Wargame challenges to reinforce Linux fundamentals, networking, and exploit development.  
+
+**Skills Developed:**  
+- Enumeration & vulnerability discovery  
+- Exploit development & privilege escalation  
+- Malware analysis & reverse engineering basics  
+- SOC-oriented blue team investigation skills
+
+---
+
 ## 🛠 Tech & Tools
 
 ![Splunk](https://img.shields.io/badge/-Splunk-000?&logo=Splunk)  
@@ -150,8 +169,6 @@ Mapped a fictional target’s public digital footprint using **Maltego** and **r
 ---
 
 💡 *This GitHub is where I share my hands-on security projects, tools, and continuous learning toward becoming a professional SOC/Cybersecurity Analyst.*
-
-
 
 
 
