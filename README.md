@@ -122,23 +122,46 @@ Mapped a fictional target’s public digital footprint using **Maltego** and **r
 
 ---
 
-## 🏴 Practical Cybersecurity Labs
+## 🛡 Cybersecurity Practice & Labs Portfolio
 
+I actively develop my **offensive and defensive cybersecurity skills** through hands-on labs, wargames, and CTF competitions.
+
+---
+
+### 🎯 Platforms
 [![Hack The Box](https://img.shields.io/badge/Hack%20The%20Box-111927?logo=hackthebox&logoColor=9FEF00)](https://app.hackthebox.com/profile)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?logo=tryhackme&logoColor=white)](https://tryhackme.com/p/RrsHum)
 [![OverTheWire](https://img.shields.io/badge/OverTheWire-000000?logo=linux&logoColor=white)](https://overthewire.org/wargames/)
 
-I actively sharpen my **offensive and defensive cybersecurity skills** through well-known practice platforms:
-
-- **Hack The Box (HTB)** – Penetration testing challenges and CTF-style labs, focusing on network exploitation, privilege escalation, and post-exploitation techniques.  
+- **Hack The Box (HTB)** – Penetration testing challenges and CTF-style labs focusing on network exploitation, privilege escalation, and post-exploitation techniques.  
 - **TryHackMe (THM)** – Guided and competitive labs covering web exploitation, blue teaming, malware analysis, and incident response.  
-- **OverTheWire** – Wargame challenges to reinforce Linux fundamentals, networking, and exploit development.  
+- **OverTheWire** – Progressive Linux and networking wargames for foundational security and exploitation skills.  
 
-**Skills Developed:**  
+---
+
+### 🏆 Capture the Flag (CTF) Participation – 2025
+While my rankings are beginner-level, each CTF deepened my knowledge and introduced new tools and attack/defense techniques.
+
+**Events:**
+- **HACK'OSINT 2025** – Specialized OSINT investigations and digital footprint mapping.  
+- **CTF@CIT! 2025** – Web exploitation and cryptography puzzles.  
+- **THCON 2025** – Mixed challenges in forensics, reverse engineering, and OSINT.  
+- **1753CTF 2025** – Binary exploitation, pwn, and scripting.  
+- **squ1rrel.CTF 2025** – Web and network analysis scenarios.  
+- **Auvergn’Hack 2025** – Incident response and log analysis tasks.  
+- **Tales from Eldoria (Hack The Box)** – Story-driven exploitation chain.  
+- **Hackfinity Battle (TryHackMe)** – Competitive timed hacking challenge.
+
+---
+
+### 🧠 Skills Strengthened
 - Enumeration & vulnerability discovery  
-- Exploit development & privilege escalation  
-- Malware analysis & reverse engineering basics  
-- SOC-oriented blue team investigation skills
+- Web exploitation & SQLi basics  
+- Privilege escalation (Linux/Windows)  
+- Binary analysis & reverse engineering fundamentals  
+- Forensics & packet capture analysis  
+- OSINT & threat profiling  
+- Incident response workflows  
 
 ---
 
@@ -168,8 +191,4 @@ I actively sharpen my **offensive and defensive cybersecurity skills** through w
 
 ---
 
-💡 *This GitHub is where I share my hands-on security projects, tools, and continuous learning toward becoming a professional SOC/Cybersecurity Analyst.*
-
-
-
-
+💡 *This GitHub is where I share my hands-on security projects, labs, competitions, and continuous learning toward becoming a professional SOC/Cybersecurity Analyst.*
