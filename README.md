@@ -5,12 +5,13 @@
 ---
 
 ## 🚀 About Me
-- 🎯 Transitioning from **5+ years in military service** with the French Foreign Legion, including NATO mission support and leadership roles in security-critical environments.  
+- 🎯 Transitioning from 5+ years in military service with the French Foreign Legion, including NATO mission support and leadership roles in security-critical environments.  
 - 📜 Certified: **CompTIA Security+** | **Google Cybersecurity Professional Certificate**  
 - 🛠 Hands-on experience in:
   - SOC monitoring & alert triage (Splunk)
   - OSINT & threat profiling (Maltego, recon-ng)
   - Packet capture analysis (Wireshark)
+  - Foundational penetration testing (reconnaissance, vulnerability scanning, exploitation basics in lab environments)  
 - 🧠 Strong foundation in risk assessment, incident response workflows, and operational discipline.
 
 ---
