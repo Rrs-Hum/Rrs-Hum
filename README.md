@@ -164,9 +164,7 @@ Simulated phishing, brute force, and malware beaconing attacks in a SOC lab usin
 
 I actively develop my skills through labs, wargames, and competitions:  
 
-[![Hack The Box](https://img.shields.io/badge/Hack%20The%20Box-111927?logo=hackthebox&logoColor=9FEF00)](https://app.hackthebox.com/profile)  
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?logo=tryhackme&logoColor=white)](https://tryhackme.com/p/RrsHum)  
-[![OverTheWire](https://img.shields.io/badge/OverTheWire-000000?logo=linux&logoColor=white)](https://overthewire.org/wargames/)  
+[![Hack The Box](https://img.shields.io/badge/Hack%20The%20Box-111927?logo=hackthebox&logoColor=9FEF00)](https://app.hackthebox.com/profile)[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?logo=tryhackme&logoColor=white)](https://tryhackme.com/p/RrsHum) [![OverTheWire](https://img.shields.io/badge/OverTheWire-000000?logo=linux&logoColor=white)](https://overthewire.org/wargames/)  
 
 - **Hack The Box** – Network exploitation, privilege escalation.  
 - **TryHackMe** – Web exploitation, malware analysis, blue teaming.  
