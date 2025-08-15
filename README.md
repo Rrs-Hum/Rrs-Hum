@@ -1,19 +1,15 @@
 # 👋 Hi, I’m Rares Lascau  
 
-💻 **Entry-Level Cybersecurity Analyst** | SOC Operations | Cloud Security | OSINT | Incident Response  
+💻 **Entry-Level Cybersecurity Analyst** | SOC Operations | OSINT |
 
 ---
 
 ## 🚀 About Me
-- 🎯 Transitioning from **5+ years in military intelligence and OSINT investigations** with the French Foreign Legion, including NATO mission support.  
+- 🎯 Transitioning from **5+ years in military * with the French Foreign Legion, including NATO mission support.  
 - 📜 Certified: **CompTIA Security+** | **Google Cybersecurity Professional Certificate**.  
 - 🛠️ Hands-on experience in:
-  - SOC monitoring (Splunk, ELK)
-  - Incident response & forensics
-  - Cloud security (AWS, IAM, CloudTrail, CloudWatch)
-  - Infrastructure as Code (Terraform)
+  - SOC monitoring (Splunk)
   - OSINT & threat profiling (Maltego, recon-ng)  
-- 🌍 Based in France, open to **remote cybersecurity roles within the EU**.
 
 ---
 
@@ -107,8 +103,7 @@ While my rankings are beginner-level, each CTF deepened my knowledge and introdu
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rrs-Hum&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rrs-Hum&layout=compact&theme=radical)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rrs-Hum&show_icons=true&theme=radical)   
 
 ---
 
