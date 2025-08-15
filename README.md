@@ -115,7 +115,6 @@ While my rankings are beginner-level, each CTF deepened my knowledge and introdu
 
 💡 *This GitHub is where I share my hands-on security projects, labs, competitions, and continuous learning toward becoming a professional SOC/Cybersecurity Analyst.*
 
-
 # 👋 Hi, I’m Rares Lascau  
 
 💻 **Entry-Level Cybersecurity Analyst** | SOC Operations | OSINT | Threat Detection
@@ -162,7 +161,12 @@ Simulated phishing, brute force, and malware beaconing attacks in a SOC lab usin
 ---
 
 ## 🛡 Cybersecurity Practice
-I actively develop my skills through labs, wargames, and competitions:
+
+I actively develop my skills through labs, wargames, and competitions:  
+
+[![Hack The Box](https://img.shields.io/badge/Hack%20The%20Box-111927?logo=hackthebox&logoColor=9FEF00)](https://app.hackthebox.com/profile)  
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?logo=tryhackme&logoColor=white)](https://tryhackme.com/p/RrsHum)  
+[![OverTheWire](https://img.shields.io/badge/OverTheWire-000000?logo=linux&logoColor=white)](https://overthewire.org/wargames/)  
 
 - **Hack The Box** – Network exploitation, privilege escalation.  
 - **TryHackMe** – Web exploitation, malware analysis, blue teaming.  
@@ -186,4 +190,5 @@ I actively develop my skills through labs, wargames, and competitions:
 [![Email](https://img.shields.io/badge/Email-rarespaul97%40gmail.com-red?logo=gmail&logoColor=white)](mailto:rarespaul97@gmail.com)  
 
 💡 *This GitHub showcases my hands-on cybersecurity projects and continuous learning toward becoming a professional SOC/Cybersecurity Analyst.*
+
 
