@@ -58,8 +58,7 @@ I actively develop my skills through labs, wargames, and competitions:
 
 ## 🧠 Skills & Tools
 ![Splunk](https://img.shields.io/badge/-Splunk-000?&logo=Splunk)
-![Microsoft Sentinel](https://img.shields.io/badge/-Microsoft%20Sentinel-000?&logo=microsoftazure&logoColor=white)
-![Microsoft Sentinel](https://img.shields.io/badge/-Microsoft%20Sentinel-0078D4?&logo=microsoftazure&logoColor=white)
+[![Microsoft Sentinel](https://img.shields.io/badge/-Microsoft%20Sentinel-000?&logo=microsoftazure&logoColor=white)](https://learn.microsoft.com/azure/sentinel/)
 ![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?&logo=Wireshark)
 ![Maltego](https://img.shields.io/badge/-Maltego-2E2E2E)
 ![Nmap](https://img.shields.io/badge/-Nmap-00457C?&logo=nmap)
