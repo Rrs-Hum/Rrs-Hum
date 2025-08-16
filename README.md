@@ -35,7 +35,7 @@ Investigated suspicious activity using **Splunk** as part of the Google Cybersec
 <td width="50%">
 
 ### 🔹 SIEM & Incident Response Lab – *In Progress*
-Simulated phishing, brute force, and malware beaconing attacks in a SOC lab using **Splunk** and **Wireshark**.  
+Simulated phishing, brute force, and malware beaconing attacks in a SOC lab using **Splunk/Microsoft Sentinel** and **Wireshark**.  
 **Skills:** SOC monitoring, SIEM queries, packet analysis.
 
 </td>
