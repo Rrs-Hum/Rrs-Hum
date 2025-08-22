@@ -77,7 +77,7 @@ I actively develop my skills through labs, wargames, and competitions:
 
 <table>
 <tr>
-<td width="100%">
+<td width="50%">
 
 ### 🔹 Network Traffic Analysis with tcpdump & Wireshark – Completed
 Conducted packet capture and analysis as part of the **Google Cybersecurity Professional Certificate**.  
