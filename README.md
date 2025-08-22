@@ -86,6 +86,7 @@ I actively develop my skills through labs, wargames, and competitions:
 ![Nmap](https://img.shields.io/badge/-Nmap-00457C?&logo=nmap)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?&logo=amazon-aws)
 ![Python](https://img.shields.io/badge/-Python-3776AB?&logo=python&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-557C94?&logo=kalilinux&logoColor=white)
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?&logo=gnu-bash&logoColor=white)
 
 ---
