@@ -31,6 +31,26 @@ Investigated suspicious activity using **Splunk** as part of the Google Cybersec
 - Produced an **incident report** summarizing findings and recommended mitigations.  
 **Skills:** SIEM queries, log analysis, incident triage, report writing.
 
+<table>
+<tr>
+<td width="50%">
+
+### 🔹 Network Traffic Analysis with tcpdump & Wireshark – Completed
+Conducted packet capture and analysis as part of the **Google Cybersecurity Professional Certificate**.  
+**Key Tasks:**
+- Captured network traffic with **tcpdump** using targeted filters (host/port/protocol) and saved rotating PCAP files.
+- Analyzed PCAPs in **Wireshark** to inspect TCP/UDP flows, **HTTP/DNS** transactions, and baseline vs. anomalous activity.
+- Applied display filters and *Follow TCP Stream* to trace sessions and extract **IOCs** (IPs, domains, URIs).
+- Documented findings and recommended monitoring/containment steps.
+
+**Skills:** tcpdump, Wireshark, packet analysis, IOC extraction, report writing.
+
+<!-- Optional: add a repo link when ready -->
+<!-- 👉 Repo: https://github.com/your-username/wireshark-tcpdump-network-analysis -->
+
+</td>
+</tr>
+</table>
 </td>
 <td width="50%">
 
@@ -75,25 +95,6 @@ I actively develop my skills through labs, wargames, and competitions:
 💡 *This GitHub showcases my hands-on cybersecurity projects and continuous learning toward becoming a professional SOC/Cybersecurity Analyst.*
 
 
-<table>
-<tr>
-<td width="50%">
 
-### 🔹 Network Traffic Analysis with tcpdump & Wireshark – Completed
-Conducted packet capture and analysis as part of the **Google Cybersecurity Professional Certificate**.  
-**Key Tasks:**
-- Captured network traffic with **tcpdump** using targeted filters (host/port/protocol) and saved rotating PCAP files.
-- Analyzed PCAPs in **Wireshark** to inspect TCP/UDP flows, **HTTP/DNS** transactions, and baseline vs. anomalous activity.
-- Applied display filters and *Follow TCP Stream* to trace sessions and extract **IOCs** (IPs, domains, URIs).
-- Documented findings and recommended monitoring/containment steps.
-
-**Skills:** tcpdump, Wireshark, packet analysis, IOC extraction, report writing.
-
-<!-- Optional: add a repo link when ready -->
-<!-- 👉 Repo: https://github.com/your-username/wireshark-tcpdump-network-analysis -->
-
-</td>
-</tr>
-</table>
 
 
