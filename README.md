@@ -20,47 +20,49 @@
 
 <table>
 <tr>
-<td width="50%">
-
-### 🔹 Splunk SIEM Investigation – Completed
-
-Investigated suspicious activity using **Splunk** as part of the Google Cybersecurity Professional Certificate.  
-**Key Tasks:**
-- Queried SIEM logs to identify failed logins, unusual IP access patterns, and privilege escalation attempts.
-- Monitored real-time events and set up alerts for critical incidents.
-- Produced an **incident report** summarizing findings and recommended mitigations.  
-**Skills:** SIEM queries, log analysis, incident triage, report writing.
-
 <table>
 <tr>
-<td width="50%">
+<td width="33%">
+
+### 🔹 Splunk SIEM Investigation – Completed
+<!-- Optional repo badge -->
+<!-- <a href="#"><img src="https://img.shields.io/badge/Repo-View-blue?logo=github" alt="View Repository"></a> -->
+Investigated suspicious activity using **Splunk** as part of the Google Cybersecurity Professional Certificate.  
+**Key Tasks:**
+- Queried SIEM logs for failed logins, unusual IP access, and privilege escalation attempts.
+- Monitored real-time events and created alerts for critical incidents.
+- Produced an **incident report** with findings and mitigations.  
+**Skills:** SIEM queries, log analysis, incident triage, report writing.
+
+</td>
+<td width="33%">
 
 ### 🔹 Network Traffic Analysis with tcpdump & Wireshark – Completed
-Conducted packet capture and analysis as part of the **Google Cybersecurity Professional Certificate**.  
+<!-- <a href="#"><img src="https://img.shields.io/badge/Repo-View-blue?logo=github" alt="View Repository"></a> -->
+Captured and analysed network traffic using **tcpdump** and **Wireshark** (Google Cybersecurity Professional Certificate).  
 **Key Tasks:**
-- Captured network traffic with **tcpdump** using targeted filters (host/port/protocol) and saved rotating PCAP files.
-- Analyzed PCAPs in **Wireshark** to inspect TCP/UDP flows, **HTTP/DNS** transactions, and baseline vs. anomalous activity.
-- Applied display filters and *Follow TCP Stream* to trace sessions and extract **IOCs** (IPs, domains, URIs).
-- Documented findings and recommended monitoring/containment steps.
-
+- Captured packets with **tcpdump** using host/port/protocol filters; saved PCAPs.
+- Analysed **TCP/UDP flows**, **HTTP/DNS** transactions, and anomalies in **Wireshark**.
+- Used display filters and *Follow TCP Stream*; extracted **IOCs** (IPs, domains, URIs).
+- Documented findings and recommended monitoring/containment steps.  
 **Skills:** tcpdump, Wireshark, packet analysis, IOC extraction, report writing.
 
-<!-- Optional: add a repo link when ready -->
-<!-- 👉 Repo: https://github.com/your-username/wireshark-tcpdump-network-analysis -->
-
 </td>
-</tr>
-</table>
-</td>
-<td width="50%">
+<td width="33%">
 
 ### 🔹 SIEM & Incident Response Lab – *In Progress*
-Simulated phishing, brute force, and malware beaconing attacks in a SOC lab using **Splunk/Microsoft Sentinel** and **Wireshark**.  
-**Skills:** SOC monitoring, SIEM queries, packet analysis.
+<!-- <a href="#"><img src="https://img.shields.io/badge/Repo-View-blue?logo=github" alt="View Repository"></a> -->
+Building a home/SaaS lab to simulate **phishing**, **brute force**, and **beaconing**; analysing in **Splunk/Microsoft Sentinel** with **Wireshark**.
+**Current Focus / Plan:**
+- Generate logs, write detection queries, tune alerts.
+- Triage sample incidents, create short case notes.
+- Add screenshots and playbooks as the lab evolves.  
+**Skills:** SOC monitoring, SIEM queries, packet analysis, incident workflows.
 
 </td>
 </tr>
 </table>
+
 
 ---
 
