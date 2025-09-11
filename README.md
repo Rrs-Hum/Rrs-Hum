@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Rares Lascau  
 
-💻 **Entry-Level Cybersecurity Analyst** | SOC Operations | OSINT | Threat Detection
+💻 **Entry-Level Cybersecurity Analyst** | SOC Operations | GSOC Monitoring & Incident Response | OSINT | Threat Detection
 
 ---
 
