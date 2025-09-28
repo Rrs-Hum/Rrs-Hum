@@ -63,6 +63,23 @@ Building a home/SaaS lab to simulate **phishing**, **brute force**, and **beacon
 </tr>
 </table>
 
+---
+
+## 🏅 CTF Achievements
+
+**Event:** Holmes CTF 2025 (HTB’s first all-blue CTF)  
+**Dates:** 22/09/2025 → 26/09/2025
+
+| Metric | Value |
+|---|---|
+| **Team ranking** | **848ᵗʰ** |
+| **Solved challenges** | **42 / 65** |
+| **Total points** | **4,800** |
+| **Username** | **Rares Lascau** |
+| **Team** | **Null Raider** |
+| **Total teams** | **7,085** |
+
+> Write-ups: [01 — The Card](01_The_Card.md) · [02 — The Enduring Echo](02_The_Enduring_Echo.md)
 
 ---
 
