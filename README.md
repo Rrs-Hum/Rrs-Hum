@@ -69,6 +69,7 @@ Building a home/SaaS lab to simulate **phishing**, **brute force**, and **beacon
 
 **Event:** Holmes CTF 2025 (HTB’s first all-blue CTF)  
 **Dates:** 22/09/2025 → 26/09/2025
+[Holmes CTF 2025 — Blue Team Write-Ups](https://github.com/Rrs-Hum/Holmes-CTF-Writeups)
 
 | Metric | Value |
 |---|---|
